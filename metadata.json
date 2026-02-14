@@ -1,0 +1,9 @@
+
+{
+  "name": "TeleConfess - Secret Messages Bot",
+  "description": "A web-based simulation of a Telegram Confession Bot. Submit anonymous secrets, get them AI-polished for maximum engagement, and view a feed of community whispers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
